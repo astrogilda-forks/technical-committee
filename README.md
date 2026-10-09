@@ -117,7 +117,11 @@ The TC is currently still formalizing its governance and policies. Once establis
 
 ## Meeting Agenda and Minutes
 
-*coming soon* 
+Agendas and minutes are posted in the [meetings](meetings/) directory, one file per meeting. Until TC meetings open to the public, people outside the TC can follow its work through the [observer role](governance/observer-role.md).
+
+## Observers
+
+No observers yet.
 
 ## Communication
 
